@@ -1,0 +1,28 @@
+button{
+    display: block;
+    margin: 20px;
+    
+}
+.box1{
+    border-radius: 20px;
+    color: rgb(144, 144, 228);
+    border-color:  rgb(144, 144, 228);
+    background-color: bisque;
+    height: 40px;
+    width: 150px;
+}
+.box2{
+    border-radius: 50%;
+    color: white;
+    background-color:aqua;
+    height: 50px;
+    width: 50px;
+
+}
+.box3{
+    box-shadow:10px 10px 5px black;
+    color:white;
+    background-color: blue;
+    height: 40px;
+    width: 200px;
+}
