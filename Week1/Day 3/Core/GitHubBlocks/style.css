@@ -1,0 +1,40 @@
+*{
+    margin:0;
+    padding: 0;
+}
+.container {
+    width: 800px;
+    margin: 0 auto;
+    background-color: #f3f3f3;
+    padding: 20px;
+    text-align: center;
+}
+h1 {
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+.image {
+    height: 200px;
+}
+.aquoi {
+
+    background-color: cyan;
+    margin: 10px;
+    justify-content: space-between;
+}
+.pink {
+    background-color: lightpink;
+    justify-content: center;
+    margin: 10px;
+    
+    justify-content: center;
+}
+.white {
+    display: flex;
+    justify-content: space-between;
+    background-color:wheat;
+    margin: 10px;
+    padding: 20px;
+    justify-content: space-between;
+}
